@@ -1,5 +1,5 @@
 # Stack Overflow Survey Analysis
-**Note:** GitHub does not support interactive Plotly graphs directly in the README. You can view interactive visualizations and the complete analysis through the DataCamp notebook available at the following link: [DataCamp Notebook](https://www.datacamp.com/datalab/w/8eadb104-1ad8-4f1c-b99c-f43d5ab98978/edit)
+**Note:** GitHub does not support interactive Plotly graphs. To view interactive visualizations and the complete analysis, please visit the DataCamp notebook available at the following link: [DataCamp Notebook](https://www.datacamp.com/datalab/w/8eadb104-1ad8-4f1c-b99c-f43d5ab98978/edit)
 
 ## 1. Overview
 
