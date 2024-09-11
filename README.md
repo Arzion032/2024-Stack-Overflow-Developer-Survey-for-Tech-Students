@@ -1,11 +1,19 @@
-# Dashboard Viewer
+# Stack Overflow Survey Dashboard
 
-This repository contains a dashboard script (`dashboard.py`). You can easily run it from the terminal to view the dashboard.
+## Overview
 
-## Prerequisites
+This project involves creating a dashboard to visualize data from the Stack Overflow survey. The dashboard is built using Dash and displays various charts based on survey data related to programming languages, databases, platforms, web frameworks, and development tools.
 
-- Ensure you have Python installed on your system.
-- Install any required Python dependencies listed in `requirements.txt` (if applicable) using:
+## Project Structure
 
-  ```bash
-  pip install -r requirements.txt
+- `dashboard.py`: Contains the main code for the Dash application.
+- `viz.py`: Includes functions for generating visualizations.
+- `filter.py`: Contains functions for data cleaning and transformation.
+- `data/`: Directory containing raw and processed CSV files.
+
+## Requirements
+
+To run this project, you need to have the following Python packages installed. You can install these packages using `pip` from the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
