@@ -10,6 +10,7 @@ The goal of this project is to extract and present meaningful insights from the 
 2. How have salaries varied for tech job roles, industries, and educational levels?
 3. Where do developers most commonly seek coding resources (e.g., books, online tutorials, technical documentation), and how do these preferences differ based on their years of coding experience?
 4. What factors have the most significant impact on job satisfaction among developers?
+5. How are AI tools used in development workflows, and what are the associated benefits and challenges?
 
 ## 2. Project Components
 
@@ -17,7 +18,7 @@ The goal of this project is to extract and present meaningful insights from the 
 
 A Jupyter Notebook that contains the main analysis of the Stack Overflow survey data. It explores key insights and trends relevant to students and early-career professionals.
 
-### b. `app.py`
+### b. `dashboard.py`
 
 Contains the main code for the Dash application, including layout, widgets, and callbacks for interactive visualizations.
 
